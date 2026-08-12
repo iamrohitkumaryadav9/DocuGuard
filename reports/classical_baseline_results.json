@@ -1,0 +1,143 @@
+{
+  "results": {
+    "val": {
+      "accuracy": 0.7083333333333334,
+      "auc": 0.7489708720534589
+    },
+    "test": {
+      "accuracy": 0.7016666666666667,
+      "auc": 0.7607555555555556
+    }
+  },
+  "feature_importances": [
+    {
+      "name": "field_5_noise_var",
+      "importance": 0.15580342298669558
+    },
+    {
+      "name": "field_2_noise_var",
+      "importance": 0.13159720843673287
+    },
+    {
+      "name": "max_anomaly_noise_zscore",
+      "importance": 0.1229524231041266
+    },
+    {
+      "name": "field_6_noise_var",
+      "importance": 0.10055816665402453
+    },
+    {
+      "name": "field_4_noise_var",
+      "importance": 0.08008391091457255
+    },
+    {
+      "name": "field_1_noise_var",
+      "importance": 0.07337757642671201
+    },
+    {
+      "name": "field_0_noise_var",
+      "importance": 0.05985186819679729
+    },
+    {
+      "name": "field_3_noise_var",
+      "importance": 0.05702991786427037
+    },
+    {
+      "name": "field_5_ela_mean",
+      "importance": 0.03672029141990505
+    },
+    {
+      "name": "field_2_ela_mean",
+      "importance": 0.02552314200566942
+    },
+    {
+      "name": "max_anomaly_mean_zscore",
+      "importance": 0.021356185997215237
+    },
+    {
+      "name": "field_6_ela_mean",
+      "importance": 0.01681517753021995
+    },
+    {
+      "name": "field_4_ela_mean",
+      "importance": 0.013209949174909627
+    },
+    {
+      "name": "field_0_ela_mean",
+      "importance": 0.011890032281010529
+    },
+    {
+      "name": "avatar_ela_mean",
+      "importance": 0.008459066901023079
+    },
+    {
+      "name": "barcode_ela_mean",
+      "importance": 0.008384614351473764
+    },
+    {
+      "name": "barcode_noise_var",
+      "importance": 0.007288049286778913
+    },
+    {
+      "name": "signature_ela_mean",
+      "importance": 0.006848703967270049
+    },
+    {
+      "name": "field_1_ela_mean",
+      "importance": 0.006771977182196349
+    },
+    {
+      "name": "signature_noise_var",
+      "importance": 0.00631323452649001
+    },
+    {
+      "name": "field_3_ela_mean",
+      "importance": 0.0056973760340864295
+    },
+    {
+      "name": "field_3_ela_max",
+      "importance": 0.004992146958622203
+    },
+    {
+      "name": "avatar_noise_var",
+      "importance": 0.004449708553445618
+    },
+    {
+      "name": "field_1_ela_max",
+      "importance": 0.004231560856587608
+    },
+    {
+      "name": "field_5_ela_max",
+      "importance": 0.0042260203228015065
+    },
+    {
+      "name": "field_2_ela_max",
+      "importance": 0.004106686635519079
+    },
+    {
+      "name": "field_0_ela_max",
+      "importance": 0.004088033235280762
+    },
+    {
+      "name": "barcode_ela_max",
+      "importance": 0.004025140915764474
+    },
+    {
+      "name": "field_6_ela_max",
+      "importance": 0.0037422031174780155
+    },
+    {
+      "name": "avatar_ela_max",
+      "importance": 0.003629263116402387
+    },
+    {
+      "name": "signature_ela_max",
+      "importance": 0.0035454681796603742
+    },
+    {
+      "name": "field_4_ela_max",
+      "importance": 0.0024314728662576746
+    }
+  ],
+  "elapsed_sec": 91.30509901046753
+}
